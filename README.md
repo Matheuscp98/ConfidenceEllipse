@@ -2,7 +2,7 @@
 
 ## Description
 
-This VBA code is useful for creating confidence ellipses with multivariate data, as discussed in the following papers:
+This VBA code is useful for creating **Confidence Ellipses** with multivariate data, as discussed in the following papers:
 - [Integration of confidence ellipses in the evaluation and development of centrifugal fans](Paper2.pdf);
 - [Application of the confidence ellipse as support for the precision analysis in measuring the concentration of water in oil emulsions](Paper1.pdf).
 
