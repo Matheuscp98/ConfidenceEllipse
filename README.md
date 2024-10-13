@@ -3,8 +3,8 @@
 ## Description
 
 This VBA code is useful for creating confidence ellipses with multivariate data, as discussed in the following papers:
-- [Integration of confidence ellipses in the evaluation and development of centrifugal fans](Paper2.pdf)
-- [Application of the confidence ellipse as support for the precision analysis in measuring the concentration of water in oil emulsions](Paper1.pdf)
+- [Integration of confidence ellipses in the evaluation and development of centrifugal fans](Paper2.pdf);
+- [Application of the confidence ellipse as support for the precision analysis in measuring the concentration of water in oil emulsions](Paper1.pdf).
 
 The code is designed to be run within Excel, allowing users to work with confidence ellipses in both educational and industrial contexts. Users can modify the confidence interval, variance, mean, correlation, and multivariate points in real time.
 
