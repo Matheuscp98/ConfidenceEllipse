@@ -1,4 +1,4 @@
-# Confidence Ellipse VBA Code
+# Confidence Ellipse: VBA Code
 
 ## Description
 
