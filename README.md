@@ -50,21 +50,21 @@ Here are some figures related to the Excel sheets used in this project:
 
 ## VBA Routines/Buttons
 
-### 1. Ellipses
-### 2. Variances
-### 3. Means
-### 4. Correlation
-### 5. Correlation Bar
-### 6. Lock Point (MVN)
-### 7. Update Points (MVN)
-### 8. Toggle Between Graphs
-### 9. Change Axis Values
-### 10. Save Changes
-### 11. Enable Full Screen
-### 12. Disable Full Screen
-### 13. Tab: Ellipse
-### 14. Tab: Data
-### 15. Tab: Points
+- **`1. Ellipses`**
+- **`2. Variances`**
+- **`3. Means`**
+- **`4. Correlation`**
+- **`5. Correlation Bar`**
+- **`6. Lock Point (MVN)`**
+- **`7. Update Points (MVN)`**
+- **`8. Toggle Between Graphs`**
+- **`9. Change Axis Values`**
+- **`10. Save Changes`**
+- **`11. Enable Full Screen`**
+- **`12. Disable Full Screen`**
+- **`13. Tab: Ellipse`**
+- **`14. Tab: Data`**
+- **`15. Tab: Points`**
 
 ## Contact
 
