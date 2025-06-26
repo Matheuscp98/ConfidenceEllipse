@@ -46,13 +46,6 @@ Other articles are in progress; the current public papers related to this tool a
 
 ---
 
-**Confidence Ellipse Video**
-
-<video src="Confidence_Ellipse_Video.mp4" controls width="480"></video>
-
-*Video explanation of the functionality. You can play it directly here on GitHub if your browser supports it.*
-
-
 ## 🖼️ Figures and Video
 
 | Example                     | Screenshot / Link                  | Description                              |
