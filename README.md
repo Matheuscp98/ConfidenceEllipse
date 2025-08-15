@@ -24,13 +24,10 @@ Other articles are in progress; the current public papers related to this tool a
 
 - **The use of the confidence ellipse combined with computational fluid dynamics in a centrifugal fan** (*O uso da elipse de confiança combinada a fluidodinâmica computacional em um ventilador centrífugo*)  
   [Read here](https://www.abepro.org.br/biblioteca/TCE_413_2028_47556.pdf)
-
 - **Integration of confidence ellipses in the evaluation and development of centrifugal fans** (*Integração de elipses de confiança na avaliação e no desenvolvimento de ventiladores centrífugos*)  
   [Read here](https://www.abepro.org.br/biblioteca/TN_ST_403_1982_46273.pdf)
-
 - **Application of the confidence ellipse as support for precision analysis in measuring the concentration of water-in-oil (W/O) emulsions** (*Aplicação da elipse de confiança como apoio à análise de precisão na medição de concentração de emulsões de água em óleo (W/O)*)  
   [Read here](https://www.abepro.org.br/biblioteca/TN_ST_401_1969_46756.pdf)
-
 - **Confidence ellipses and data analysis in computational fluid dynamics simulations** (*Elipses de confiança e análise de dados em simulações computacionais de fluidodinâmica*)  
   [Read here](https://www.abepro.org.br/biblioteca/TN_ST_413_2028_48255.pdf)
 
