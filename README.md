@@ -2,19 +2,9 @@
 
 ## 📝 Description
 
-This repository contains **VBA code** for creating and analyzing **Confidence Ellipses** with **multivariate data**.
+This repository contains **VBA code** for creating and analyzing **Confidence Ellipses** with **Multivariate Data**.
 
 The code is designed to run within **Excel**, allowing users to work with **confidence ellipses** in both **educational** and **industrial contexts**. You can modify the **confidence interval**, **variance**, **mean**, **correlation**, and **multivariate points** in real time, and interactively explore results directly in **Excel via VBA**.
-
----
-
-## 🛠️ How to Use
-
-1. **Clone or download** this repository to your local machine.  
-2. **Open** the **Excel file** containing the **VBA macros**.  
-3. **Enable macros** in **Excel**.  
-4. **Run** the desired **VBA routines** from the **VBA editor** or assign them to **buttons** in your Excel sheets.  
-5. The code includes **detailed comments** and **figures** to help you understand its functionality.  
 
 ---
 
@@ -30,6 +20,16 @@ Other articles are in progress; the current public papers related to this tool a
   [Read here](https://www.abepro.org.br/biblioteca/TN_ST_401_1969_46756.pdf)
 - **Confidence ellipses and data analysis in computational fluid dynamics simulations** (*Elipses de confiança e análise de dados em simulações computacionais de fluidodinâmica*)  
   [Read here](https://www.abepro.org.br/biblioteca/TN_ST_413_2028_48255.pdf)
+
+---
+
+## 🛠️ How to Use
+
+1. **Clone or download** this repository to your local machine.  
+2. **Open** the **Excel file** containing the **VBA macros**.  
+3. **Enable macros** in **Excel**.  
+4. **Run** the desired **VBA routines** from the **VBA editor** or assign them to **buttons** in your Excel sheets.  
+5. The code includes **detailed comments** and **figures** to help you understand its functionality.  
 
 ---
 
