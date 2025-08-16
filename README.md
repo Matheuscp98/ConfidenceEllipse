@@ -2,7 +2,7 @@
 
 ## 📝 Description
 
-This repository contains **VBA code** for creating and analyzing **Confidence Ellipses** with **Multivariate Data**.
+This repository contains **Visual Basic for Applications (VBA) code** for creating and analyzing **Confidence Ellipses** with **Multivariate Data**.
 
 The code is designed to run within **Excel**, allowing users to work with **confidence ellipses** in both **educational** and **industrial contexts**. You can modify the **confidence interval**, **variance**, **mean**, **correlation**, and **multivariate points** in real time, and interactively explore results directly in **Excel via VBA**.
 
