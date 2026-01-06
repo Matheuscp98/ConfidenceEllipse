@@ -10,7 +10,7 @@ The code is designed to run within **Excel**, allowing users to work with **conf
 
 ## 📚 Publications
 
-Other articles are in progress; the current public papers related to this tool are:
+In addition to ongoing manuscripts under review, the following public papers are already available:
 
 - **The use of the confidence ellipse combined with computational fluid dynamics in a centrifugal fan** (*O uso da elipse de confiança combinada a fluidodinâmica computacional em um ventilador centrífugo*)  
   [Read here](https://www.abepro.org.br/biblioteca/TCE_413_2028_47556.pdf)
@@ -20,6 +20,8 @@ Other articles are in progress; the current public papers related to this tool a
   [Read here](https://www.abepro.org.br/biblioteca/TN_ST_401_1969_46756.pdf)
 - **Confidence ellipses and data analysis in computational fluid dynamics simulations** (*Elipses de confiança e análise de dados em simulações computacionais de fluidodinâmica*)  
   [Read here](https://www.abepro.org.br/biblioteca/TN_ST_413_2028_48255.pdf)
+- **Optimizing Industrial Efficiency: The Role of Confidence Ellipsoids in Simulation** (*Otimizando a Eficiência Industrial: O Papel dos Elipsóides de Confiança na Simulação*)  
+  [Read here](https://www.abepro.org.br/biblioteca/TN_ST_426_2087_51297.pdf)
 
 ---
 
